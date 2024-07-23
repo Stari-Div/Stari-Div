@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stari-Div
 - 👀 I’m interested in alot of things
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, LUAU and CSS
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me idk
 - 😄 Pronouns: microwave

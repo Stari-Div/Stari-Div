@@ -8,5 +8,3 @@
 ![Services I use](https://skillicons.dev/icons?i=git)
 ## Frameworks I use
 ![Services I use](https://skillicons.dev/icons?i=bootstrap)
-
-### FREEDOM FOR INTERNET

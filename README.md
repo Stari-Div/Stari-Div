@@ -1,4 +1,4 @@
-##Wasup, its Stari
+## Wasup, its Stari
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stari-Div)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,4 +9,4 @@
 ## Frameworks I use
 ![Services I use](https://skillicons.dev/icons?i=bootstrap)
 
-###FREEDOM FOR INTERNET
+### FREEDOM FOR INTERNET

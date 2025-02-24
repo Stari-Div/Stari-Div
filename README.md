@@ -1,6 +1,6 @@
 ## Wasup, its Stari
 
-![My stats](https://github-readme-stats.vercel.app/api?username=Stari-Div&show_icons=true&theme=radical)
+![My stats](https://github-readme-stats.vercel.app/api?username=Stari-Div&show_icons=true&theme=merko)
 
 ## Languages i'm fluent in
 ![My Languages](https://skillicons.dev/icons?i=css,html,py,lua)

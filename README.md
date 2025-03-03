@@ -2,7 +2,7 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Stari-Div&show_icons=true&theme=merko)
 
-## Languages i'm fluent in
+## Languages that I am fluent in:
 ![My Languages](https://skillicons.dev/icons?i=css,html,py,lua)
 ## Services I Use
 ![Services I use](https://skillicons.dev/icons?i=git)

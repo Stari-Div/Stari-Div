@@ -4,4 +4,3 @@
 <img src="./img/geen.png" alt="geen" width="165"/>
 <img src="./img/geen.png" alt="geen" width="165"/>
 <img src="./img/geen.png" alt="geen" width="165"/>
-<img src="./img/geen.png" alt="geen" width="165"/>

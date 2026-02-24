@@ -7,4 +7,5 @@
 <br>
 Note: If you see 5 green logo's on one line you have a acceptable monitor size. If you have 5 logo's on multiple lines, get a bigger screen.
 <br>
+<br>
 Visit my github.io ---> https://stari-div.github.io/

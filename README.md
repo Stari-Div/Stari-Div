@@ -10,7 +10,7 @@ Note: If you see 5 logo's on one line you have a acceptable monitor size. If you
 <br>
 <h2>My Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,lua,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,lua,python" />
   </a>
 <h2>Some stuff I use</h2>
   <a href="https://skillicons.dev">
